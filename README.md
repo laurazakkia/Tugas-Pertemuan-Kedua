@@ -1,4 +1,4 @@
-# 📚 Konsep Pemrograman Berbasis Obyek - Pertemuan Kedua
+# Konsep Pemrograman Berbasis Obyek - Pertemuan Kedua
 ##  Daftar Isi :
 - [ Constructor](#constructor)
 - [ Interface](#interface)
